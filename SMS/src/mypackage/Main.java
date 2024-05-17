@@ -9,7 +9,7 @@ public class Main {
     private static final String url = "jdbc:mysql://localhost:3306/";
     private static final String database = "studentmanagement";
     private static final String username = "root";
-    private static final String password = "pass";
+    private static final String password = "pass~";
 
 
     public static void main(String[] args) {
